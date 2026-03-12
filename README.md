@@ -1,2 +1,2 @@
-# Uzma-Khan
+# UzmaKhan-demo
 This is my first Git repository.
